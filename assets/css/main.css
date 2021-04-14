@@ -2623,6 +2623,13 @@ input, select, textarea {
 			margin: 2.5rem 0;
 			width: 100%;
 		}
+		.image.andrew_center img {
+			float:left;
+			position:relative;
+			width: 25%;
+			margin-bottom:50px;
+			left:37%;
+		}
 
 			.image.fit:first-child {
 				margin-top: 0;
